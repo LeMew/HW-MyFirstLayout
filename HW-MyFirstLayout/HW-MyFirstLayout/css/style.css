@@ -1,0 +1,36 @@
+html {
+    background-color: thistle
+}
+ h1 {
+    font-family: 'Playfair Display', serif;
+    font-weight: bold;
+    text-align: center;
+    
+}
+h2{
+    font-family: 'Playfair Display', serif;
+    font-weight: bold;
+}
+p{
+    font-family: 'Source Sans Pro', sans-serif;
+    
+}
+ol{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+body, html {
+    background-image: url("https://cdn.pixabay.com/photo/2019/04/24/11/27/flowers-4151900_960_720.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
